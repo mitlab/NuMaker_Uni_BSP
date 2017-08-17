@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>4080360583</fileChecksum>
+  <configuration>
+    <name>Release</name>
+    <outputs>
+      <file>$PROJ_DIR$\..\..\..\..\Library\Device\Nuvoton\Nano100Series\Source\IAR\startup_Nano100Series.s</file>
+      <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\src\clk.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\Library\Device\Nuvoton\Nano100Series\Source\system_Nano100Series.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\inc\sc.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\inc\i2s.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Full.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\inc\wdt.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\Library\CMSIS\Include\core_cmFunc.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\inc\spi.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\inc\pwm.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\Library\Device\Nuvoton\Nano100Series\Include\Nano100Series.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\inc\gpio.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\inc\adc.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\inc\clk.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\Library\CMSIS\Include\core_cm0.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\inc\dac.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\inc\ebi.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\inc\i2c.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\inc\pdma.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\inc\rtc.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\inc\scuart.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\inc\timer.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\inc\usbd.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\inc\wwdt.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\inc\lcd.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ystdio.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\Library\NuMaker_Uni_Lib\Include\I2C_SSD1306Z.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\Library\NuMaker_Uni_Lib\Include\Font8x16.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\Library\NuMaker_Uni_Lib\Include\Font5x7.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\Library\CMSIS\Include\core_cmInstr.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\Library\NuMaker_Uni_Lib\Include\SYS_init.h</file>
+      <file>$PROJ_DIR$\..\MCU_init.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\Library\NuMaker_Uni_Lib\Include\I2Cdev.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\src\i2c.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\src\retarget.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\src\sys.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\src\wdt.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\Library\NuMaker_Uni_Lib\Source\I2C_SSD1306Z.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\Library\NuMaker_Uni_Lib\Source\I2Cdev.c</file>
+      <file>$PROJ_DIR$\..\main.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\Library\NuMaker_Uni_Lib\Source\SYS_init.c</file>
+      <file>$PROJ_DIR$\Release\Obj\i2c.o</file>
+      <file>$PROJ_DIR$\Release\Exe\WDT_Interrupt.out</file>
+      <file>$PROJ_DIR$\Release\Obj\clk.o</file>
+      <file>$PROJ_DIR$\Release\Obj\sys.o</file>
+      <file>$PROJ_DIR$\Release\Obj\I2Cdev.o</file>
+      <file>$PROJ_DIR$\Release\Obj\i2c.pbi</file>
+      <file>$PROJ_DIR$\Release\Exe\WDT_Reset.out</file>
+      <file>$PROJ_DIR$\Release\Obj\retarget.o</file>
+      <file>$PROJ_DIR$\Release\Obj\wdt.o</file>
+      <file>$PROJ_DIR$\Release\Obj\system_Nano100Series.o</file>
+      <file>$PROJ_DIR$\Release\Obj\I2C_SSD1306Z.o</file>
+      <file>$PROJ_DIR$\Release\Obj\main.o</file>
+      <file>$PROJ_DIR$\Release\Obj\SYS_init.o</file>
+      <file>$PROJ_DIR$\Release\Obj\startup_Nano100Series.o</file>
+      <file>$PROJ_DIR$\Release\Obj\system_Nano100Series.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\clk.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\retarget.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\sys.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\wdt.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\I2C_SSD1306Z.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\I2Cdev.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\SYS_init.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\WDT_Interrupt.pbd</file>
+      <file>$PROJ_DIR$\Release\Exe\WDT_Interrupt.bin</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\cmsis_iar.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\inc\crc.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\inc\sys.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\inc\uart.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\Library\Device\Nuvoton\Nano100Series\Include\system_Nano100Series.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\inc\fmc.h</file>
+      <file>$TOOLKIT_DIR$\lib\dl6M_tlf.a</file>
+      <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+      <file>$TOOLKIT_DIR$\lib\rt6M_tl.a</file>
+      <file>$TOOLKIT_DIR$\lib\m6M_tl.a</file>
+      <file>$TOOLKIT_DIR$\config\generic_cortex.icf</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\Library\Device\Nuvoton\Nano100Series\Source\IAR\startup_Nano100Series.s</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 61</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\Library\StdDriver\src\clk.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 63</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 50</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 76 74 16 10 13 7 14 12 9 73 81 77 83 75 3 78 4 8 79 80 82 11 15 17 18 19 20 21 22 23 24 25 26 34 5 6 27</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 11 16 14 79 82 73 5 6 80 76 34 74 27 8 81 77 15 13 17 83 18 12 19 75 20 10 21 3 22 9 23 78 24 7 25 4 26</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\Library\Device\Nuvoton\Nano100Series\Source\system_Nano100Series.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 62</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 57</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 73 74 81 75 76 77 78 79 80 82 83 3 4 8 11 5 6 13 12 10 9 7 14 16 15 17 18 19 20 21 22 23 24 25 26 34 27</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 14 79 82 73 5 6 80 76 11 16 34 74 27 8 81 77 15 13 17 83 18 12 19 75 20 10 21 3 22 9 23 78 24 7 25 4 26</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 49</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\Library\StdDriver\src\i2c.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 53</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 48</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 76 74 10 81 13 7 14 12 9 73 16 77 83 75 3 78 4 8 79 80 82 11 15 17 18 19 20 21 22 23 24 25 26 34 5 6 27</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 11 16 14 79 82 73 5 6 80 76 34 74 27 8 81 77 15 13 17 83 18 12 19 75 20 10 21 3 22 9 23 78 24 7 25 4 26</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\Library\StdDriver\src\retarget.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 64</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 55</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 6 25 17 34 21 79 16 19 23 27 36 5 14 15 18 20 22 24 26 82 11 28 73 80 76 81 77 13 83 12 75 10 3 9 78 7 4 8 74 35</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 35 79 82 73 5 6 80 76 36 28 11 16 14 34 74 27 8 81 77 15 13 17 83 18 12 19 75 20 10 21 3 22 9 23 78 24 7 25 4 26</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\Library\StdDriver\src\sys.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 65</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 51</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 76 74 10 16 13 7 14 12 9 73 81 77 83 75 3 78 4 8 79 80 82 11 15 17 18 19 20 21 22 23 24 25 26 34 5 6 27</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 11 16 14 79 82 73 5 6 80 76 34 74 27 8 81 77 15 13 17 83 18 12 19 75 20 10 21 3 22 9 23 78 24 7 25 4 26</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\Library\StdDriver\src\wdt.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 66</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 56</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 76 74 10 13 7 14 81 12 9 73 16 77 83 75 3 78 4 8 79 80 82 11 15 17 18 19 20 21 22 23 24 25 26 34 5 6 27</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 11 16 14 79 82 73 5 6 80 76 34 74 27 8 81 77 15 13 17 83 18 12 19 75 20 10 21 3 22 9 23 78 24 7 25 4 26</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\Library\NuMaker_Uni_Lib\Source\I2C_SSD1306Z.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 67</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 58</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 6 36 21 29 17 25 34 27 79 77 82 16 19 23 30 33 5 31 14 15 18 20 22 24 26 11 12 39 32 28 73 80 76 81 13 83 75 10 3 9 78 7 4 8 74 35</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 35 79 82 73 5 6 80 76 36 28 14 30 31 11 16 34 74 27 8 81 77 15 13 17 83 18 12 19 75 20 10 21 3 22 9 23 78 24 7 25 4 26 39 29 32 33</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\Library\NuMaker_Uni_Lib\Source\I2Cdev.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 68</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 52</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 36 74 3 73 83 4 8 39 79 76 82 81 77 75 78 11 28 80 13 12 10 9 7 14 35 5 6 16 15 17 18 19 20 21 22 23 24 25 26 34 27</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 35 79 82 73 5 6 80 76 36 28 11 16 14 34 74 27 8 81 77 15 13 17 83 18 12 19 75 20 10 21 3 22 9 23 78 24 7 25 4 26 39</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 69</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 59</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 5 36 31 22 82 18 26 37 79 14 15 20 24 11 6 16 17 19 21 23 25 34 27 30 38 29 28 73 80 76 81 77 13 83 12 75 10 3 9 78 7 4 8 74 35</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 35 79 82 73 5 6 80 76 36 28 30 31 11 16 14 34 74 27 8 81 77 15 13 17 83 18 12 19 75 20 10 21 3 22 9 23 78 24 7 25 4 26 38 37 29</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\Library\NuMaker_Uni_Lib\Source\SYS_init.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 70</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 60</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 79 18 26 28 22 38 82 5 14 15 20 24 11 37 36 6 16 17 19 21 23 25 34 27 35 73 80 76 81 77 13 83 12 75 10 3 9 78 7 4 8 74</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 35 79 82 73 5 6 80 76 36 28 11 16 14 34 74 27 8 81 77 15 13 17 83 18 12 19 75 20 10 21 3 22 9 23 78 24 7 25 4 26 38 37</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Release\Exe\WDT_Interrupt.out</name>
+      <outputs>
+        <tool>
+          <name>OBJCOPY</name>
+          <file> 72</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 88 50 48 58 52 59 55 61 51 60 57 56 85 86 87 84</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Release\Exe\WDT_Reset.out</name>
+      <outputs>
+        <tool>
+          <name>OBJCOPY</name>
+          <file> 72</file>
+        </tool>
+      </outputs>
+    </file>
+  </configuration>
+</project>
+
+
